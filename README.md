@@ -1,3 +1,8 @@
-Clone the project- 
-run npm install 
-run pnpm dev
+## 🚀 Setup
+
+1. **Clone the repository**
+   ```sh
+   git clone <repo-url>
+   cd <project-folder>
+npm install
+npm run dev
