@@ -8,8 +8,9 @@
     npm install
 3.  **Run the Development Server**
    ```sh
-   npm run dev
+    npm run dev
 
-**How intial Dashboard looks like-**
-```sh
-<img width="3691" height="1616" alt="image" src="https://github.com/user-attachments/assets/81e72351-37d4-43cc-9946-4b6bc49541ac" />
+## 🖼️ How the initial Dashboard looks
+
+<img width="3691" height="1616" alt="Initial Dashboard UI" src="https://github.com/user-attachments/assets/81e72351-37d4-43cc-9946-4b6bc49541ac" />
+
